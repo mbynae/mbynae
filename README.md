@@ -28,4 +28,4 @@
 </p>   
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbynae)](https://github.com/mbynae?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbynae&show_icons=true)](https://github.com/mbynae?tab=repositories)
