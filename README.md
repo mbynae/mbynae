@@ -33,10 +33,10 @@
 
 ### : 리엑트/뷰 수업 예제   
 <div>
-  <a href="https://app.netlify.com/sites/taupe-centaur-77389e/overview">리엑트 사이트1(https://app.netlify.com/sites/taupe-centaur-77389e/overview)</a>   
+  <a href="https://app.netlify.com/sites/taupe-centaur-77389e/overview">리엑트 사이트1(https://app.netlify.com/sites/taupe-centaur-77389e/overview)</a><br>
   <a href="https://vueclass159.web.app/">뷰 사이트1(https://vueclass159.web.app/)</a>
   <br><br>
-  <a href="https://sensational-begonia-9fc06e.netlify.app/">리엑트 API 사이트(https://sensational-begonia-9fc06e.netlify.app/)</a>   
+  <a href="https://sensational-begonia-9fc06e.netlify.app/">리엑트 API 사이트(https://sensational-begonia-9fc06e.netlify.app/)</a><br>
   <a href="https://vueapi159.web.app/">뷰 API 사이트(https://vueapi159.web.app/)</a>
   
  </div>
